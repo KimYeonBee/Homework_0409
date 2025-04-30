@@ -1,0 +1,102 @@
+    .header{
+        display: flex;
+        align-items: center;
+    }
+
+    .header h6{
+        color: white;
+        margin-left: 8px;
+    }
+
+    .emoticon{
+        display: flex;
+        align-items: center;
+    }
+    
+    p{
+        color: white;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    i{
+        color: white;
+    }
+
+    .photo p{
+        display: flex;
+        align-content: center;
+    }
+
+    .header{
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        gap: 230px;
+        margin-bottom: 0px;
+    }
+
+    .header-left{
+        display: flex;
+        align-items: center;
+        gap: 4px;
+    }
+
+    .header-right {
+        display: flex;
+        align-items: center;
+    }
+
+    .photo p{
+        margin-left: 155px;
+        font-size: 13px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+
+    .emoticon{
+        display: flex;
+        gap:23px;
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .e-group{
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        gap: 8px;
+    }
+
+    .bookmark{
+        margin-left: 200px;
+    }
+
+    .text{
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+
+    .comment{
+        font-size: 15px;
+    }
+
+    .comment-row{
+        display: flex; 
+        align-items: center;             
+        margin-bottom: 6px; 
+        position: relative;  
+        padding-right: 30px;
+        
+    }
+
+    .comment-row i {
+        position: absolute;
+        right: 350px;
+        top: 0;
+        font-size: 13px;
+    }
+
+    .date{
+        font-size: 12px;
+    }
