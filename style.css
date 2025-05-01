@@ -69,7 +69,7 @@
     }
 
     .bookmark{
-        margin-left: 200px;
+        margin-left: 180px;
     }
 
     .text{
@@ -86,14 +86,12 @@
         align-items: center;             
         margin-bottom: 6px; 
         position: relative;  
-        padding-right: 30px;
-        
+        justify-content: space-between;
+        width: 400px;
+        padding: 8px;
     }
 
     .comment-row i {
-        position: absolute;
-        right: 350px;
-        top: 0;
         font-size: 13px;
     }
 
